@@ -1,8 +1,8 @@
 <p align="center">
-<a href="#" alt="PROJETO ESCOLA FRONTEND">
+<a href="#" alt="PROJETO ESCOLA DOCUMENTAÇÃO">
   </a></p>
 
-# PROJETO ESCOLA - FRONTEND 
+# PROJETO ESCOLA - DOCUMENTAÇÃO 
 
 ## Description
 

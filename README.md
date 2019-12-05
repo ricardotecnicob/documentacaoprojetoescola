@@ -1,8 +1,8 @@
 <p align="center">
-<a href="#" alt="PROJETO ESCOLA MOBILE">
+<a href="#" alt="PROJETO ESCOLA BACKEND">
   </a></p>
 
-# PROJETO ESCOLA - MOBILE 
+# PROJETO ESCOLA - BACKEND 
 
 ## Description
 
